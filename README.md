@@ -1,6 +1,6 @@
 # JF · `@cynarlab`
 
-[![passportsign verified · CAN · 2026-05-25](https://raw.githubusercontent.com/debugmcp/passportsign/main/docs/evidence/passportsign-badge.svg)](https://rekor.sigstore.dev/api/v1/log/entries/108e9186e8c5677a53b1918ed9b9bbe15194e42714fd3a3f8f0e163d3a22831120a4c540a332e151)
+[![passportsign verified · CAN · 2026-05-25](https://passportsign.dev/badge/cynarlab.svg)](https://passportsign.dev/verify/cynarlab)
 
 Maintainer of [`debugmcp/mcp-debugger`](https://github.com/debugmcp/mcp-debugger)
 and a handful of other things that need someone to actually be
